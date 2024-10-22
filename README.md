@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Student interested in software developement and robotics<br>🤝 WRO FE Team HHG_Phoenix
+🔭 Student interested in software developement and robotics<br>🤝 WRO Future Engineers Team: HHG_Phoenix
 
 
 # 💻 Tech Stack:
